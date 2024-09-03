@@ -169,7 +169,7 @@ if __name__ == "__main__":
 ```
 
 5. Desarrollar un programa que sume los elementos de una fila dada de una matriz.
-```phyton
+```python
 def sumar_filas_de_una_matriz(P=list, x=int, y=int) -> float:
     # Inicializa una variable para almacenar la suma de la fila
     suma_fila = 0
